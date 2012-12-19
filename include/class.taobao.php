@@ -1,6 +1,10 @@
 <?php
 /*
+<<<<<<< HEAD
 	閫氳繃娣樺疂鏁版嵁搴撴彁渚涚殑api锛岀劧鍚庡埄鐢ㄥ凡鏈塈P锛屽垽鏂綊灞炲湴
+=======
+	通过淘宝数据库提供的api，然后利用已有IP，判断归属地
+>>>>>>> parent of df97f03... Revert "taobao's api"
 	by qing.chen
 */
 class taobao 
